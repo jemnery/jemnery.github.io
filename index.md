@@ -5,4 +5,4 @@ layout: default
 
 # {{ page.title }}
 
-<a href="mailto:jeremy.d.collins@gmail.com">jeremy.d.collins@gmail.com</a>
+Contact email: <a href="mailto:jeremy.d.collins@gmail.com">jeremy.d.collins@gmail.com</a>

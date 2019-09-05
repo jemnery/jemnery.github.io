@@ -11,6 +11,18 @@ html {
     background-size: cover;
 }
 
+header {
+    background: #000;
+
+    h1 {
+        color: #fff;
+    }
+}
+
 footer {
     color: #555;
+}
+
+.logo {
+    font-family: 'Source Code Pro', monospace;
 }
