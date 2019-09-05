@@ -11,7 +11,7 @@ Providing digital services and advisory.
 
 - Software development and architecture
 - Systems design
-- Data modeling and database design
+- Data modelling and database design
 - Process automation
 - Data migration
 
@@ -22,6 +22,8 @@ Providing digital services and advisory.
 - HTML / JavaScript / CSS
 - Windows Server & IIS
 - Python
+- Git
+- Jenkins
 
 ## Contact 
 
