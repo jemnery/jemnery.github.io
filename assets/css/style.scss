@@ -11,10 +11,6 @@ html {
     background-size: cover;
 }
 
-body {
-    color: #fff;
-}
-
 header {
     background: #000;
 
@@ -25,6 +21,10 @@ header {
 
 footer {
     color: #000;
+}
+
+.wrapper {
+    background: #fff;
 }
 
 .logo {
