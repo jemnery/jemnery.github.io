@@ -22,9 +22,9 @@ Providing digital services and advisory.
 - HTML / JavaScript / CSS
 - Windows Server & IIS
 - Python
-- Git
+- Git / GitHub
 - Jenkins
 
 ## Contact 
 
-Email: <a href="mailto:jeremy.d.collins@gmail.com">jeremy.d.collins@gmail.com</a>
+Email: <a href="mailto:jeremy@systematyst.com">jeremy@systematyst.com</a>
